@@ -16,9 +16,6 @@ class Lms extends \yii\base\Module
         /** Register custom translations for this module **/
 
     }
-    function asd(){
-        echo "asd";
-    }
 
 
 }
